@@ -1,5 +1,15 @@
 # @keystonejs/fields
 
+## 6.0.3
+
+### Patch Changes
+
+- Updated dependencies [[`a99e158`](https://github.com/keystonejs/keystone/commit/a99e15827b02dc4d94e306867bbe9fb7fb611823), [`a99e158`](https://github.com/keystonejs/keystone/commit/a99e15827b02dc4d94e306867bbe9fb7fb611823)]:
+  - @keystonejs/adapter-knex@6.1.1
+  - @keystonejs/utils@5.1.2
+  - @arch-ui/drawer@0.0.14
+  - @arch-ui/popout@0.0.12
+
 ## 6.0.2
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @arch-ui/dialog
 
+## 0.0.13
+
+### Patch Changes
+
+- [`a99e158`](https://github.com/keystonejs/keystone/commit/a99e15827b02dc4d94e306867bbe9fb7fb611823) [#36](https://github.com/arnaud-zg/keystone/pull/36) - Made usages of `document.body` conditional so that the component doesn't immediately fail on the server
+
 ## 0.0.12
 
 ### Patch Changes
